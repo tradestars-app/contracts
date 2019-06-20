@@ -1,0 +1,14 @@
+{
+  "ropsten": {
+    "TSToken": "",
+    "VestingManager": "",
+    "PerformanceCard": "",
+    "PerformanceCollection": ""
+  },
+  "mainnet": {
+    "TSToken": "",
+    "VestingManager": "",
+    "PerformanceCard": "",
+    "PerformanceCollection": ""
+  }
+}
