@@ -1,2 +1,4 @@
 directory_index:
 - index.json
+readme_index:
+- enabled: false
