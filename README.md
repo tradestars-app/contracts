@@ -1,0 +1,1 @@
+# TradeStars contracts' addresses
