@@ -2,6 +2,7 @@
   "ropsten": {
     "TSToken": "0xb508e0E04b70FcdA3426A013571086c754cB2b6A",
     "VestingManager": "0x92E75E6f5BF6DC2f5F3671CD842BBE25B43cFD7c",
+    "MultiSigWallet": "0xD5da9e58A246989F744625Cff6181f30C612de76",
     "PerformanceCard": "0xd73658E2A896F66F5B60cb3317a0457e8da1Fd1a",
     "PerformanceCollection": "",
     "ReserveToken": "0xaD6D458402F60fD3Bd25163575031ACDce07538D",
