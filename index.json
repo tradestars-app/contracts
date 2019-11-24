@@ -5,10 +5,10 @@
     "MultiSigWallet": "0xD5da9e58A246989F744625Cff6181f30C612de76"
   },
   "maticTestnet": {
-    "TSToken": "",
+    "TSToken": "0x499E194b0a276a2B10D8e84E53D6F7a768Ca775F",
     "TConverter": "0x8B0c79A88D4A5371dCcBB11486BB3956ef63c694",
     "FractionableERC721": "0xD2dA52060b8A234B55E36De9B7279daad5c194F8",
-    "PerformanceCard": "0xEe4cca027317F4C0DF29028236EeE2fee1e7e90c",
+    "PerformanceCard": "0x55cB19813eE12c43ad10041A5D414F61DAC9462c",
   },
   "mainnet": {
     "TSToken": "0x0",
