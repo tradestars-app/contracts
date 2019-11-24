@@ -9,7 +9,7 @@
     "TConverter": "0x8B0c79A88D4A5371dCcBB11486BB3956ef63c694",
     "FractionableERC721": "0xD2dA52060b8A234B55E36De9B7279daad5c194F8",
     "PerformanceCard": "0x55cB19813eE12c43ad10041A5D414F61DAC9462c",
-    "PerformanceCollection": "0x0000000000000000000000000000000000000000"
+    "PerformanceCollection": "0x0"
   },
   "mainnet": {
     "TSToken": "0x0",
