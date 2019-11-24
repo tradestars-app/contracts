@@ -8,7 +8,8 @@
     "TSToken": "0x499E194b0a276a2B10D8e84E53D6F7a768Ca775F",
     "TConverter": "0x8B0c79A88D4A5371dCcBB11486BB3956ef63c694",
     "FractionableERC721": "0xD2dA52060b8A234B55E36De9B7279daad5c194F8",
-    "PerformanceCard": "0x55cB19813eE12c43ad10041A5D414F61DAC9462c"
+    "PerformanceCard": "0x55cB19813eE12c43ad10041A5D414F61DAC9462c",
+    "PerformanceCollection": "0x0"
   },
   "mainnet": {
     "TSToken": "0x0",
@@ -20,6 +21,7 @@
     "TSToken": "0x0",
     "TConverter": "0x0",
     "FractionableERC721": "0x0",
-    "PerformanceCard": "0x0"
+    "PerformanceCard": "0x0",
+    "PerformanceCollection": "0x0"
   }
 }
