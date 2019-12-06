@@ -1,7 +1,7 @@
 {
   "ropsten": {
     "TSToken": "0xE2814f0B05BBe409Ef4DeB83cdaF9c9C077EFdcf",
-    "PlasmaRoot": "0x4b068Ac93b3b71DB13Fce4c4510Eb70D3022576A",
+    "PlasmaRoot": "0x3Bc6701cA1C32BBaC8D1ffA2294EE3444Ad93989",
     "VestingManager": "0x277DDF8B3Bd7D5B2a4Ca8f0DEAB09D103938C82C",
     "MultiSigWallet": "0xD5da9e58A246989F744625Cff6181f30C612de76"
   },
