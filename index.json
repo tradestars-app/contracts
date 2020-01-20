@@ -15,7 +15,7 @@
   },
   "mainnet": {
     "TSToken": "0x64Ee5a075701f75359F10626BC986Aae844Ad9a7",
-    "PlasmaRoot": "0x60e2b19b9a87a3f37827f2c8c8306be718a5f9b4",
+    "PlasmaRoot": "0xb3Fe6f0eB663DbE4D4813Ee32d6f30d64640D2f8",
     "VestingManager": "0xBDc785518880B284FE2147E28Bb3382Bb4042807",
     "MultiSigWallet": "0x0"
   },
