@@ -27,4 +27,10 @@
     "PerformanceCard": "0x413a94A0Eb58Cf95111Df60D25bE4DFda2B5A72E",
     "PerformanceCollection": "0x0"
   }
+  "mumbai": {
+    "sTSX": "0xdC65b2b74826d92Bf4776c461F8d48bd1f8E5502",
+    "PerformanceCard": "0xBF5B3dF771871E76D040afE03730ea37acFec7d4",
+    "FractionableERC721": "0x3D4237C443B826fc024aa462513Ac6013058E237",
+    "ChildChainManagerProxy": "0xb5505a6d998549090530911180f38aC5130101c6"
+  }
 }
