@@ -26,7 +26,7 @@
     "FractionableERC721": "0x8D653cD1F888a34663C6C799c25c53b39cc1229a",
     "PerformanceCard": "0x413a94A0Eb58Cf95111Df60D25bE4DFda2B5A72E",
     "PerformanceCollection": "0x0"
-  }
+  },
   "mumbai": {
     "sTSX": "0xdC65b2b74826d92Bf4776c461F8d48bd1f8E5502",
     "PerformanceCard": "0xBF5B3dF771871E76D040afE03730ea37acFec7d4",
