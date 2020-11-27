@@ -1,32 +1,4 @@
 {
-  "ropsten": {
-    "TSToken": "0xE2814f0B05BBe409Ef4DeB83cdaF9c9C077EFdcf",
-    "PlasmaRoot": "0x3Bc6701cA1C32BBaC8D1ffA2294EE3444Ad93989",
-    "VestingManager": "0x277DDF8B3Bd7D5B2a4Ca8f0DEAB09D103938C82C",
-    "MultiSigWallet": "0x0"
-  },
-  "maticTestnet": {
-    "TSToken": "0x7A27DE24B684EBE8a9ccFFFD1e641ba12BCEC170",
-    "ReserveToken": "0x39c987974f40F47138aF52f90Da31c149899dcBE",
-    "TConverter": "0x2B7915F21D811c578A01B93521f322D0514e2944",
-    "FractionableERC721": "0x27F5F224B0a85866dF3bC7D8859a1d5E57Cf3E82",
-    "PerformanceCard": "0xebEAd9C21b63E97Ab1BB0Bf0054D570522C1Cc4D",
-    "PerformanceCollection": "0x0"
-  },
-  "mainnet": {
-    "TSToken": "0x64Ee5a075701f75359F10626BC986Aae844Ad9a7",
-    "PlasmaRoot": "0xb3Fe6f0eB663DbE4D4813Ee32d6f30d64640D2f8",
-    "VestingManager": "0xBDc785518880B284FE2147E28Bb3382Bb4042807",
-    "MultiSigWallet": "0x0"
-  },
-  "maticMainnet": {
-    "TSToken": "0xD3a04A7738cEEDf3235C6DE0cA64D63062CBeA74",
-    "ReserveToken": "0x4746BD25205A4df7Bf2A070E04b97C624B9A62F5",
-    "TConverter": "0x3Ff888464c35aE9F0F438DC6e6122578AA673E82",
-    "FractionableERC721": "0x8D653cD1F888a34663C6C799c25c53b39cc1229a",
-    "PerformanceCard": "0x413a94A0Eb58Cf95111Df60D25bE4DFda2B5A72E",
-    "PerformanceCollection": "0x0"
-  },
   "mumbai": {
     "sTSX": "0xdC65b2b74826d92Bf4776c461F8d48bd1f8E5502",
     "NFTRegistry": "0xBF5B3dF771871E76D040afE03730ea37acFec7d4",
