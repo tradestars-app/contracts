@@ -10,5 +10,11 @@
     "sTSX": "0xD42d0F5579b1f17a4b1268B71143de3F0990bE2D",
     "USDT": "0x38aeFC771069596bbf40dE298aCF21388e58eB90",
     "Cashier": "0x09e8f08DAd859D19EE970c1aeA465893F36e3405"
+  }, 
+  "mainnet": {
+    "TSX": "0x734c90044a0ba31b3f2e640c10dc5d3540499bfd",
+  }
+  "bsc": {
+    "TSX": "0x270388e0ca29cfd7c7e73903d9d933a23d1bab39",
   }
 }
