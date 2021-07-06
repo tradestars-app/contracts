@@ -5,7 +5,6 @@
     "NFTRegistry": "0xB08eA942e2D16c6f314ac7B02096E7CcEd837b3C",
     "NFTRegistry-old": "0x2D33041EEd01466a2530A6EF7Bd20B7050617435",
     "FractionableERC721": "0xd1920396FF21A19544aBb6B19114fdc70d0C3e26",
-    "ChildChainManagerProxy": "0xb5505a6d998549090530911180f38aC5130101c6"
   },
   "goerli": {
     "TSX": "0x6d1f63c20e2af745b21425d4cfd88857900a3e74",
@@ -15,8 +14,8 @@
   },
   "matic": {
     "USDT": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
-    "NFTRegistry": "",
-    "FractionableERC721": ""
+    "NFTRegistry": "0x5f74C8Cbca1E01fC1bEA6684e0E35754D4D250Ce",
+    "FractionableERC721": "0xAc2BeDfEf42caBdd96De387Bbaea09f765922b38"
   },
   "mainnet": {
     "TSX": "0x734c90044a0ba31b3f2e640c10dc5d3540499bfd", 
