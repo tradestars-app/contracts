@@ -1,7 +1,7 @@
 {
   "mumbai": {
     "USDT": "0x53679ceD0ef3827884AfEfdae45f20fba1F078b6",
-    "NFTRegistry": "0xfA2AFB4ebB876ae997D76b6eFc70DCdcceEE3F91",
+    "NFTRegistry": "0xB0deb1A861239b82E669229dEdb4D8C69724A6D7",
     "FractionableERC721": "0xd1920396FF21A19544aBb6B19114fdc70d0C3e26"
   },
   "goerli": {
