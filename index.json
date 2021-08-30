@@ -1,8 +1,10 @@
 {
   "mumbai": {
     "USDT": "0x53679ceD0ef3827884AfEfdae45f20fba1F078b6",
-    "NFTRegistry": "0xB0deb1A861239b82E669229dEdb4D8C69724A6D7",
-    "FractionableERC721": "0xd1920396FF21A19544aBb6B19114fdc70d0C3e26"
+    "TSX": "0x1ce8614e6e7FF90A5874CD04e8922c412EEd4a4b",
+    "TokenManager": "0x8d8DeaA890042FdBC0037ea27443EF8f3D4552CF",
+    "UnlockRegistry": "0xbe42ee46A304572F3FBa505253e0aCdDe72deE0d",
+    "FractionableERC721": "0x4ACc2556AF155f6671fFe0D204f769f9381c0432"
   },
   "goerli": {
     "TSX": "0x6d1f63c20e2af745b21425d4cfd88857900a3e74",
@@ -10,8 +12,10 @@
   },
   "matic": {
     "USDT": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
-    "NFTRegistry": "0x5f74C8Cbca1E01fC1bEA6684e0E35754D4D250Ce",
-    "FractionableERC721": "0xAc2BeDfEf42caBdd96De387Bbaea09f765922b38"
+    "TSX": "0xF11de26883EB2EBF9877a01703DDC1eB619094E6",
+    "TokenManager": "",
+    "UnlockRegistry": "",
+    "FractionableERC721": ""
   },
   "mainnet": {
     "TSX": "0x734c90044a0ba31b3f2e640c10dc5d3540499bfd", 
