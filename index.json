@@ -4,7 +4,7 @@
     "TSX": "0x1ce8614e6e7FF90A5874CD04e8922c412EEd4a4b",
     "TokenManager": "0x8d8DeaA890042FdBC0037ea27443EF8f3D4552CF",
     "UnlockRegistry": "0xbe42ee46A304572F3FBa505253e0aCdDe72deE0d",
-    "FractionableERC721": "0x4ACc2556AF155f6671fFe0D204f769f9381c0432"
+    "FractionableERC721": "0xded0b4eaa695828614fbc63e4aa51e6bda43a22b"
   },
   "goerli": {
     "TSX": "0x6d1f63c20e2af745b21425d4cfd88857900a3e74",
