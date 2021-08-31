@@ -13,9 +13,9 @@
   "matic": {
     "USDT": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
     "TSX": "0xF11de26883EB2EBF9877a01703DDC1eB619094E6",
-    "TokenManager": "",
-    "UnlockRegistry": "",
-    "FractionableERC721": ""
+    "TokenManager": "0x4e82A94E09b8FB3C59bd67C2e50cb75d3A172571",
+    "UnlockRegistry": "0xcE74e2b2B7f0252273D72dBCf81c6363250F704f",
+    "FractionableERC721": "0xd1920396FF21A19544aBb6B19114fdc70d0C3e26"
   },
   "mainnet": {
     "TSX": "0x734c90044a0ba31b3f2e640c10dc5d3540499bfd", 
