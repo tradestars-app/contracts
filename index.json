@@ -6,7 +6,8 @@
     "UnlockRegistry": "0xbe42ee46A304572F3FBa505253e0aCdDe72deE0d",
     "FractionableERC721": "0xded0b4eaa695828614fbc63e4aa51e6bda43a22b",
     "Cashier": "0xEcAdd76D290d68d5edfD851AFC3Beec0aA884B61",
-    "StakingManager": "0xeceAcEc2cAbC1df079fAa17F08255cEA9d0780Fb"
+    "StakingRewardsVault": "0x959A55398e83DBD6133B7bd1630Ef682c38708B8",
+    "StakingManager": "0xeB1574870F2822E320d4d808e22b0b600f019c67"
   },
   "goerli": {
     "TSX": "0x6d1f63c20e2af745b21425d4cfd88857900a3e74",
@@ -19,6 +20,7 @@
     "UnlockRegistry": "0xcE74e2b2B7f0252273D72dBCf81c6363250F704f",
     "FractionableERC721": "0xd1920396FF21A19544aBb6B19114fdc70d0C3e26",
     "Cashier": "0x811942188EbB8E1842Fe04076C04ADa8c304095b",
+    "StakingRewardsVault": "0x0",
     "StakingManager": "0x0"
   },
   "mainnet": {
