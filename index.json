@@ -20,8 +20,8 @@
     "UnlockRegistry": "0xcE74e2b2B7f0252273D72dBCf81c6363250F704f",
     "FractionableERC721": "0xd1920396FF21A19544aBb6B19114fdc70d0C3e26",
     "Cashier": "0x811942188EbB8E1842Fe04076C04ADa8c304095b",
-    "StakingRewardsVault": "0x0",
-    "StakingManager": "0x0"
+    "StakingRewardsVault": "0xa27FCDAfFA2Ee3dd52322a62a3b5a4d16dC33225",
+    "StakingManager": "0x9168C2118d2d13400f8bDCFbcE707dd10aB658ab"
   },
   "mainnet": {
     "TSX": "0x734c90044a0ba31b3f2e640c10dc5d3540499bfd", 
