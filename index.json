@@ -7,7 +7,10 @@
     "FractionableERC721": "0xded0b4eaa695828614fbc63e4aa51e6bda43a22b",
     "Cashier": "0xEcAdd76D290d68d5edfD851AFC3Beec0aA884B61",
     "StakingRewardsVault": "0x959A55398e83DBD6133B7bd1630Ef682c38708B8",
-    "StakingManager": "0xeB1574870F2822E320d4d808e22b0b600f019c67"
+    "StakingManager": "0xeB1574870F2822E320d4d808e22b0b600f019c67",
+    "EntryStorage": "0x5378182408A6606f1365638E4ad64ecd40Ff0108",
+    "ContestStorage": "0x8814285386b05F3ce119aA3Af57555487AA3635A",
+    "DFSManager": "0xd7b809afCE0C1AD9b3Cb80267D8014241c684A88"
   },
   "goerli": {
     "TSX": "0x6d1f63c20e2af745b21425d4cfd88857900a3e74",
