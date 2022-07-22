@@ -9,7 +9,7 @@
     "StakingRewardsVault": "0x959A55398e83DBD6133B7bd1630Ef682c38708B8",
     "StakingManager": "0xeB1574870F2822E320d4d808e22b0b600f019c67",
     "ContestStorage": "0xdfb9fDf74a2b74B84041301E67B373648eFfE16E",
-    "DFSManager": "0x898FdFbEf2F00378511bd1cAb93504628c1FA152",
+    "DFSManager": "0x0d4ef1e990039d8500194adcf98167eadc73e220",
     "RewardManager": "0x4a8F9985De1DF98446EB0c812B8C1afFD9C05Cc3"
   },
   "goerli": {
