@@ -26,7 +26,7 @@
     "StakingRewardsVault": "0xa27FCDAfFA2Ee3dd52322a62a3b5a4d16dC33225",
     "StakingManager": "0x9168C2118d2d13400f8bDCFbcE707dd10aB658ab",
     "ContestStorage": "0x5fd401abadc025b1ec4158ec061e437ad5d9c2d7",
-    "DFSManager": "0x6daC2eCB1A530C00B705BF4edF85Ef87c820C177",
+    "DFSManager": "0xa81593A79FbCB30aECd020C80b039bfDfeB67f97",
     "RewardManager": "0xcC1c43495724E41469e227fddA9F9DaAA198209c"
   },
   "mainnet": {
